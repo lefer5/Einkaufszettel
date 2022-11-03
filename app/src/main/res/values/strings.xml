@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Einkaufszettel</string>
+    <string name="tab_text_1">Neu</string>
+    <string name="tab_text_2">Liste</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
